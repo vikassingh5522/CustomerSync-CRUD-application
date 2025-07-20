@@ -264,3 +264,5 @@ This version uses Spring JDBC with `JdbcTemplate` instead of JPA, with Spring Bo
   - **Spring JPA (Core/Boot)**: Suitable for fine-grained JPA control with Spring.
   - **Spring Data JPA (Core/Boot)**: Ideal for rapid development with minimal repository code.
   - **Spring JDBC**: Good for simple, performance-critical applications or when avoiding ORM.
+  - 
+  https://grok.com/chat/24935535-e279-4b28-a4cd-c7c1581d40dc
